@@ -7,4 +7,4 @@ This repository consits of 3 jpynb files:
 - PCA-Class (where i build generalized PCA class)
 
 
-My implementation is not correct in 100% but still works fine.
+# Result
