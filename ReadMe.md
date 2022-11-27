@@ -9,10 +9,10 @@ This repository consits of 3 jpynb files:
 
 # Result
 
-![](/tools/data.png)
+![](/tools/data.jpg)
 
-![](/tools/data_scaled.png)
+![](/tools/data_scaled.jpg)
 
-![](/tools/data_scaled_normalized.png)
+![](/tools/data_scaled_normalized.jpg)
 
-![](/tools/data_1d.png)
+![](/tools/data_1d.jpg)
