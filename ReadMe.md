@@ -8,3 +8,11 @@ This repository consits of 3 jpynb files:
 
 
 # Result
+
+![](/tools/data.png)
+
+![](/tools/data_scaled.png)
+
+![](/tools/data_scaled_normalized.png)
+
+![](/tools/data_1d.png)
